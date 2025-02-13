@@ -7,17 +7,17 @@ body {
 }
 
 #q {
-    font-size: 5vw;
+    font-size: 12vw;
 }
 
 img {
     width: auto;
-    height: 50%;
+    height: 100vw;
 }
 
 .answerButton {
     padding: 10px 20px;
-    font-size: 60px;
+    font-size: 50px;
     cursor: pointer;
     margin: 10px;
     font-family: "courier";
